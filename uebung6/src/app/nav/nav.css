@@ -1,0 +1,19 @@
+#nav{
+    background-color: rgb(41, 40, 40);
+    color: white;
+    padding: .5rem;
+}
+ul li{
+    display: inline;
+    padding-right: 5rem;
+
+    a{
+        text-decoration: none;
+        color: white;
+    }
+    a:hover{
+        font-weight: bold;
+        color:aqua;
+      
+    }
+}
